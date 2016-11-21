@@ -357,10 +357,11 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #00a885;
+  border-color: #6a8153;
+  color: #fff;
 }
 .btn-social:hover {
-  background: #00a885;
+  background: #6a8153;
 }
 .mbr-company .list-group-item.active .list-group-text {
   color: #00a885;
@@ -451,7 +452,7 @@ h6,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #6a8153;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -482,8 +483,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-4 .iconbox {
-  background-color: #41a85f;
-  border-color: #41a85f;
+  background-color: #6a8153;
+  border-color: #6a8153;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
@@ -498,7 +499,7 @@ h6,
 }
 #social-buttons2-b .mbr-section-title,
 #social-buttons2-b .btn-social {
-  color: #232323;
+  color: #fff;
 }
 #social-buttons2-b .mbr-section-title {
   color: #efefef;
